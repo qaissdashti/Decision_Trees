@@ -5,11 +5,8 @@ task is to develop a machine learning classifier for predicting female patients 
 <b>Libraries Used:</b>
 <b>Files Description</b>
 <b> Datasets and Inputs</b>
-<b> My Questions </b>
-<b> Data Science Approuch</b>
-<b>Algo used:</b>
-<b>My findings</b>
-<b>Acknowledgments and thanks</b>
+<b> Results </b>
+
 
 
 <b>Libraries Used:</b>
