@@ -1,0 +1,5 @@
+import matplotlib.pyplot as plt
+import pandas as pd
+import numpy as np
+dia_all = pd.read_csv("diabetes.txt") # This loads the full dataset
+                 # In the file, attributes are separated by ,
