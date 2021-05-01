@@ -33,6 +33,16 @@ The project was done on Jupyter Notebook and Python 3.0, below are the libraries
 <b>Domain Background:</b>
 The task is to develop a machine learning classifier for predicting female patients that at high risk of Diabetes. The model is to support clinicians in identifying patients who are likely to have “Diabetes”. The dataset has 9 attributes in total including the “target/label” attribute.
 
+<b>Results:</b>
+DT are great classifiers and are not effected by large variance in the data if present, i got an accuracy of 75% for predicting if a women has diabetics or not.
 
 ![Heat map](images/bar_chart.png)
+
+The bar chart shows how each features is diffefent between the two classes, 0, and 1.
+
+![Heat map](images/dt2.png)
+
+![Heat map](images/dt1.png)
+
+
 
