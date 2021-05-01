@@ -34,3 +34,5 @@ The project was done on Jupyter Notebook and Python 3.0, below are the libraries
 The task is to develop a machine learning classifier for predicting female patients that at high risk of Diabetes. The model is to support clinicians in identifying patients who are likely to have “Diabetes”. The dataset has 9 attributes in total including the “target/label” attribute.
 
 
+![Heat map](images/bar_chart.png)
+
